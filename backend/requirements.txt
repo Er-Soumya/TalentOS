@@ -1,0 +1,11 @@
+fastapi>=0.115
+uvicorn>=0.30
+pydantic>=2.9
+pydantic-settings>=2.5
+python-multipart>=0.0.9
+sqlalchemy>=2.0.44
+psycopg[binary]>=3.2.10
+PyJWT>=2.9
+python-docx>=1.1
+pymupdf>=1.24
+google-genai>=1.0
